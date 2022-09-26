@@ -10,8 +10,7 @@ from .tavaal import TAVAAL
 from .bait import BAIT
 from .ALFAMix import AlphaMixSampling
 from .gradnorm import GradNorm
-from .GPSurrogates import GPSurrogates
 
 
 __all__ = ['FixedSampling', 'RandomSampling', 'CoreSet', 'BADGE', 'WeightDecayScheduling', 'SequentialGCN',
-           'LearningLoss', 'VAAL', 'TAVAAL', 'BAIT', 'GPSurrogates', 'AlphaMixSampling', 'GradNorm']
+           'LearningLoss', 'VAAL', 'TAVAAL', 'BAIT', 'AlphaMixSampling', 'GradNorm']
