@@ -1,6 +1,6 @@
-# Active Learning baselines
+# Active-Learning-for-Image-Classification
 
-This repository is the unofficial implementation of Active Learning baseline algorithms. 
+This repository is the unofficial implementation of Active Learning baseline algorithms for image classification.
 
 ## Requirements
 
